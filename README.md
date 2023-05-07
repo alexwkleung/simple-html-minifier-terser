@@ -2,6 +2,8 @@
 
 A utility to minify HTML using [html-minifier-terser](https://github.com/terser/html-minifier-terser) with predefined options.
 
+Minifying HTML using html-minifier-terser requires setup by default. While some may prefer to manually setup html-minifier-terser, some just want a simple zero-config HTML minifier that just works. Therefore, those who are in the latter, including myself, will prefer using simple-html-minifier-terser for their needs. 
+
 This is ESM-only.
 
 # Installation
