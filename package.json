@@ -1,7 +1,7 @@
 {
   "name": "simple-html-minifier-terser",
   "version": "1.0.0",
-  "description": "",
+  "description": "A utility to minify HTML using html-minifier-terser with predefined options.",
   "main": "dist/index.js",
   "type": "module",
   "types": "src/types/index.d.ts",
@@ -13,8 +13,8 @@
     "type": "git",
     "url": "git+https://github.com/alexwkleung/simple-html-minifier-terser.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "alexwkleung",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/alexwkleung/simple-html-minifier-terser/issues"
   },
