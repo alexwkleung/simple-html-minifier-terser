@@ -2,7 +2,7 @@
   "name": "simple-html-minifier-terser",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "type": "module",
   "types": "src/types/index.d.ts",
   "scripts": {
