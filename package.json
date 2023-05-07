@@ -6,8 +6,8 @@
   "type": "module",
   "types": "src/types/index.d.ts",
   "scripts": {
-    "build": "npx tsc --build",
-    "build-c": "npx tsc --build --clean && npm run build"
+    "build": "tsc --build",
+    "build-c": "tsc --build --clean && npm run build"
   },
   "repository": {
     "type": "git",
