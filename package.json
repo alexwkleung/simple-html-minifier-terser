@@ -1,0 +1,29 @@
+{
+  "name": "simple-html-minifier-terser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "types": "src/types/index.d.ts",
+  "scripts": {
+    "build": "npx tsc --build",
+    "build-c": "npx tsc --build --clean && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexwkleung/simple-html-minifier-terser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexwkleung/simple-html-minifier-terser/issues"
+  },
+  "homepage": "https://github.com/alexwkleung/simple-html-minifier-terser#readme",
+  "devDependencies": {
+    "@types/html-minifier-terser": "^7.0.0",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "html-minifier-terser": "^7.2.0"
+  }
+}
